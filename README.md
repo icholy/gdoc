@@ -22,3 +22,7 @@ $ git clone https://github.com/icholy/gdoc
 ``` sh
 plugins=(gdoc)
 ```
+
+## Demo
+
+![](https://raw.github.com/icholy/gdoc/master/demo.gif)
