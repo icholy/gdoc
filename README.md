@@ -1,6 +1,6 @@
 # GDOC
 
-## This doesn't work anymore. I've contributed similar changes into oh-my-zsh.
+## This doesn't work anymore. I've contributed updated changes into the oh-my-zsh golang plugin.
 
 > OH-MY-ZSH plugin which adds tab completion and syntax highlighting to godoc
 
